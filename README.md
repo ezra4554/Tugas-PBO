@@ -5,7 +5,7 @@
 ## Inheritance
 - menggunakan keyword extends pada child class
 - menggunakan modifier private sehingga hanya bisa diakses dari dalam class
-- bertujuan untuk "Don Repeat Yourself" tidak ada duplikat atau pengulangan
+- bertujuan untuk "Don't Repeat Yourself" tidak ada duplikat atau pengulangan
 
 ## Abstrac
 - mengguanakan keyword abstract pada class dan method yang ingin digunakan
